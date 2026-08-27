@@ -1,2 +1,18 @@
-# vt-soc-triage-tool
-Herramienta en Python para triaje automatizado de IOCs utilizando la API v3 de VirusTotal.
+# 🛡️ VirusTotal SOC Triage Tool
+
+Herramienta de automatización desarrollada en Python para Analistas SOC (Nivel 1). Facilita el triaje rápido y consulta de Indicadores de Compromiso (IOCs) consumiendo la API v3 de VirusTotal.
+
+---
+
+## 🚀 Características
+- Consulta interactiva de hashes (MD5, SHA256) directamente desde la consola.
+- Clasificación automatizada de severidad (Limpio vs. Amenaza Detectada).
+- Manejo seguro de credenciales mediante variables de entorno (`.env`) para evitar exposición de API Keys.
+
+---
+
+## 🛠️ Requisitos e Instalación
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/Daniel-Luques/vt-soc-triage-tool.git
