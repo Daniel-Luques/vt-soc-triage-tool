@@ -1,4 +1,4 @@
-# 🛡️ VirusTotal SOC Triage Tool
+# 🛡️ Lab 1: VirusTotal SOC Triage Tool
 
 Herramienta de automatización desarrollada en Python para Analistas SOC (Nivel 1). Facilita el triaje rápido y consulta de Indicadores de Compromiso (IOCs) consumiendo la API v3 de VirusTotal.
 
