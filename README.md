@@ -31,4 +31,4 @@ Consulta de un hash verificado sin detecciones en los motores de análisis.
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Daniel-Luques/vt-soc-triage-tool.git](https://github.com/Daniel-Luques/vt-soc-triage-tool.git)
+      git clone https://github.com/Daniel-Luques/vt-soc-triage-tool.git
