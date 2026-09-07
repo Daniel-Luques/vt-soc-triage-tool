@@ -11,8 +11,24 @@ Herramienta de automatización desarrollada en Python para Analistas SOC (Nivel 
 
 ---
 
+## 📋 Demostración y Casos de Uso
+
+### 1. Detección de Archivo Malicioso (EICAR Test File)
+Evaluación de un hash malicioso con alerta de severidad y detalle de motores activos.
+
+![Consulta de Hash Malicioso](CapMal.png)
+
+---
+
+### 2. Evaluación de Archivo Limpio
+Consulta de un hash verificado sin detecciones en los motores de análisis.
+
+![Consulta de Hash Limpio](CapClean.png)
+
+---
+
 ## 🛠️ Requisitos e Instalación
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/Daniel-Luques/vt-soc-triage-tool.git
+   git clone [https://github.com/Daniel-Luques/vt-soc-triage-tool.git](https://github.com/Daniel-Luques/vt-soc-triage-tool.git)
